@@ -1,0 +1,18 @@
+[submodule "hi-hello-spring"]
+	path = hi-hello-spring
+	url = https://github.com/OsamZo/hi-hello-spring.git
+[submodule "hi-hello-vue"]
+	path = hi-hello-vue
+	url = https://github.com/OsamZo/hi-hello-vue.git
+[submodule "hi-hello-redis"]
+	path = hi-hello-redis
+	url = https://github.com/OsamZo/hi-hello-redis.git
+[submodule "hi-hello-chat"]
+	path = hi-hello-chat
+	url = https://github.com/OsamZo/hi-hello-chat.git
+[submodule "hi-hello-ollama"]
+	path = hi-hello-ollama
+	url = https://github.com/OsamZo/hi-hello-ollama.git
+[submodule "hi-hello-fastapi"]
+	path = hi-hello-fastapi
+	url = https://github.com/OsamZo/hi-hello-fastapi.git
