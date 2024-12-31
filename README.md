@@ -127,10 +127,8 @@
 <details markdown="2">
   <summary>🎯 프로그램 사양서</summary>
   <div>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-    </ul>
+<br>
+>[프로그램 사양서](https://docs.google.com/document/d/18qoLLQDyBCuxkei-uOdPMXNvU5QqofvqWcJLJvbNdL8/edit?tab=t.0)
   </div>
 </details>
 <div>
