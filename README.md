@@ -360,38 +360,34 @@
 
   <details>
   <summary>멘티 - 채팅</summary>
+    
   그룹 채팅
     ![설명 텍스트](./gif/groupChatting.gif)
   </details>
 
   <details>
   <summary>공통 - 챗봇</summary>
+    
   챗봇
     ![설명 텍스트](./gif/chatbot.gif)
   </details>
 
   <details>
   <summary>공통 - 프로필 조회</summary>
+    
   프로필 조회
     ![설명 텍스트](./gif/profileRead.gif)
   </details>
 
   <details>
   <summary>공통 - 위키</summary>
+    
   위키 생성
   ![설명 텍스트](./gif/wikiCreate.gif)
     
   위키 조회/수정 및 히스토리 조회
-    ![설명 텍스트](./gif/updateWikiAndReadHistory.gif)
+  ![설명 텍스트](./gif/updateWikiAndReadHistory.gif)
   </details>
-
-
-  <summary> 담당자 - 
-  
-      <li>2</li>
-    </ul>
-  </div>
-</details>
 <div>
 
 <details markdown="2">
