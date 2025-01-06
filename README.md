@@ -396,7 +396,7 @@
   ![설명 텍스트](./gif/updateWikiAndReadHistory.gif)
   </details>
 <div>
-
+</details>
 <details markdown="2">
   <summary>🎯 백엔드 단위 테스트</summary>
   <div>
@@ -405,7 +405,6 @@
 >[백엔드 단위 테스트](https://docs.google.com/spreadsheets/d/1F-cg6s2nEanYSHGntDhI2j4zHp84mA0LCy3uGkZ1FhE/edit?gid=1596520928#gid=1596520928)
 
   </div>
-</details>
 </details>
 <details markdown="1">
   <summary>🚀 CI/CD 계획서</summary>
