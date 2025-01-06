@@ -233,40 +233,40 @@
   ![설명 텍스트](./gif/login.gif)
 
   사원 추가
-  ![설명 텍스트](./gif/사원%20추가.gif)
+  ![설명 텍스트](./gif/User2.gif)
 
   사원 수정
-  ![설명 텍스트](./gif/회원%20수정.gif)
+  ![설명 텍스트](./gif/User1.gif)
 
   사원 삭제
-  ![설명 텍스트](./gif/회원%20삭제.gif)
+  ![설명 텍스트](./gif/UserDelete.gif)
 
   비밀번호 변경
-  ![설명 텍스트](./gif/비밀번호%20변경.gif)
+  ![설명 텍스트](./gif/password.gif)
 
   </details>
   <details>
   <summary>담당자 - 멘토/멘티</summary>
 
   멘토 멘티 매칭
-  ![설명 텍스트](./gif/멘토멘티%20매칭.gif)
+  ![설명 텍스트](./gif/mentormatching.gif)
 
   </details>
   <details>
   <summary>담당자 - 퀴즈</summary>
 
   퀴즈 등록
-  ![설명 텍스트](./gif/퀴즈%20등록.gif)
+  ![설명 텍스트](./gif/q-insert.gif)
 
   퀴즈 수정
-  ![설명 텍스트](./gif/퀴즈%20수정.gif)
+  ![설명 텍스트](./gif/q-update.gif)
 
   </details>
   <details>
   <summary>담당자 - 평가지표</summary>
 
   공통 평가 지표 조회 + 등록
-  ![설명 텍스트](./gif/공통%20평가%20지표%20조회%20+%20등록.gif)
+  ![설명 텍스트](./gif/common1.gif)
 
   공통 평가 지표 삭제
   
@@ -275,10 +275,10 @@
   <summary>담당자 - 동료 평가 지표</summary>
 
   동료 평가 지표 조회 + 추가
-  ![설명 텍스트](./gif/동료평가%20지표%20조회%20+%20추가.gif)
+  ![설명 텍스트](./gif/common2.gif)
 
   동료 평가 지표 삭제
-  ![설명 텍스트](./gif/동료평가지표%20삭제.gif.gif)
+  ![설명 텍스트](./gif/common3.gif)
 
   </details>
 
@@ -286,10 +286,10 @@
   <summary>담당자 - 평가 조회</summary>
 
   평가된 과제 조회
-  ![설명 텍스트](./gif/담당자%20평가된%20과제%20조회.gif)
+  ![설명 텍스트](./gif/task-select.gif)
 
   최종 평가 조회회
-  ![설명 텍스트](./gif/담당자%20최종평가%20조회.gif)
+  ![설명 텍스트](./gif/finaleval.gif)
   
   </details>
 
@@ -297,24 +297,27 @@
   <summary>담당자 - 온보딩</summary>
 
   온보딩 등록
-  ![설명 텍스트](./gif/온보딩%20등록.gif)
+  ![설명 텍스트](./gif/onboarding.gif)
 
   온보딩 순서 편집
-  ![설명 텍스트](./gif/온보딩%20순서%20편집.gif)
-  
+  ![설명 텍스트](./gif/onboradingList.gif)
+
+  멘티 그룹 생성
+  ![설명 텍스트](./gif/mentee_group_insert.gif)
+
   </details>
 
   <details>
   <summary>담당자 - 멘토링 계획서서</summary>
 
   멘토링 계획서 등록
-  ![설명 텍스트](./gif/멘토링%20계획서%20등록.gif)
+  ![설명 텍스트](./gif/planinsert.gif)
 
   멘토링 계획서 조회
-  ![설명 텍스트](./gif/멘토링%20계획서%20조회.gif)
+  ![설명 텍스트](./gif/mentoring-plan.gif)
 
   멘토링 계획서 상세조회
-  ![설명 텍스트](./gif/멘토링%20계획서%20상세조회.gif)
+  ![설명 텍스트](./gif/mentoring_plan_detail.gif)
 
   </details>
 
@@ -322,26 +325,24 @@
   <summary>멘토 - 온보딩</summary>
 
   멘토 온보딩 조회
-  ![설명 텍스트](./gif/멘토%20온보딩%20조회.gif)
+  ![설명 텍스트](./gif/mentor_onborading_show.gif)
 
   </details>
 
   <details>
   <summary>멘티 - 온보딩</summary>
 
-  멘티티 온보딩 조회
-  ![설명 텍스트](./gif/멘티%20온보딩%20조회.gif)
+  멘티 온보딩 조회
+  ![설명 텍스트](./gif/mentee_onborading_show.gif)
 
   멘티 과제 조회
-  ![설명 텍스트](./gif/멘티%20과제%20조회.gif)
+  ![설명 텍스트](./gif/mentee_task_show.gif)
 
   멘티 과제 제출
-  ![설명 텍스트](./gif/멘티%20과제%20제출출.gif)
+  ![설명 텍스트](./gif/mentee_task_push.gif)
 
   멘티 퀴즈
-  ![설명 텍스트](./gif/멘티%20퀴즈.gif)
-
-
+  ![설명 텍스트](./gif/mentee_q.gif)
 
   </details>
 
@@ -355,6 +356,16 @@
 <div>
 
 <details markdown="2">
+  <summary>🎯 백엔드 단위 테스트</summary>
+  <div>
+  <br>
+
+>[백엔드 단위 테스트](https://docs.google.com/spreadsheets/d/1F-cg6s2nEanYSHGntDhI2j4zHp84mA0LCy3uGkZ1FhE/edit?gid=1596520928#gid=1596520928)
+
+  </div>
+</details>
+
+<details markdown="2">
   <summary>🎯 CI/CD 계획서</summary>
   <div>
     <ul>
@@ -364,6 +375,7 @@
   </div>
 </details>
 <div>
+
 
 <h3>🎯 통합 배포 결과서</h3>
 
