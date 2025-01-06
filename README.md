@@ -156,16 +156,26 @@
 </details>
 <div>
 
-<details markdown="2">
-  <summary>🎯 CI/CD 계획서</summary>
+<details markdown="1">
+  <summary>🚀 CI/CD 계획서</summary>
   <div>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-    </ul>
+
+    1. 지속적 통합 (CI)
+    - 브랜치 관리:
+      개발용 `develop` 브랜치와 배포용 `master` 브랜치를 명확히  구분하여 안정적인 코드 관리를 구현합니다.
+
+    - Workflow 구성:  
+      각 브랜치에 대해 별도의 워크플로우 파일 (`develop.yml`, `deploy.yml`)을 작성하여, 브랜치별 CI 작업을 독립적으로 처리합니다.
+      
+
+    2. 무중단 배포 (CD)
+    - 무중단 배포 환경 구축: 
+      AWS Elastic Beanstalk의 오토스케일링, 헬스체크 등 고급 기능을 활용하여 무중단 배포 환경을 설계합니다.
+
+    - 배포 자동화:  
+      코드 푸시와 동시에 배포 파이프라인이 작동하도록 설정하여 운영 효율성을 극대화합니다.
   </div>
 </details>
-<div>
 
 <h3>🎯 통합 배포 결과서</h3>
 
