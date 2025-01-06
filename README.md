@@ -346,6 +346,15 @@
 
   </details>
 
+  <details>
+  <summary>멘토링 보고서 작성</summary>
+
+  멘티 온보딩 조회
+  ![설명 텍스트](./gif/mentoring-report.gif)
+
+
+  </details>
+
 
   <summary> 담당자 - 
   
