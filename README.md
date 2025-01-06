@@ -406,7 +406,7 @@
 
   </div>
 </details>
-
+</details>
 <details markdown="1">
   <summary>🚀 CI/CD 계획서</summary>
   <div>
@@ -423,11 +423,8 @@
       코드 푸시와 동시에 배포 파이프라인이 작동하도록 설정하여 운영 효율성을 극대화합니다.
   </div>
 </details>
-
-
-<h3>🎯 통합 배포 결과서</h3>
-
-
+<details>
+  <summary>🎯 통합 배포 결과서</summary>
 <h4>🏹 프론트엔드 배포</h4>
-
 <h4>🏹 백엔드 배포</h4>
+</details>
