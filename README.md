@@ -192,10 +192,9 @@
 <details markdown="2">
   <summary>🎯 시스템 아키텍처 설계서</summary>
   <div>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-    </ul>
+    
+![시스템 아키텍처](https://github.com/user-attachments/assets/78162094-d073-46af-8f0c-7ea3a8f69440)
+
   </div>
 </details>
 <div>
@@ -203,23 +202,13 @@
 <details markdown="2">
   <summary>🎯 프로그램 사양서</summary>
   <div>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-    </ul>
+    
+>[프로젝트 사양서](https://docs.google.com/document/d/10-rBIVVxRV5bcQZF-zKqIN9KAENM4mPXSNmPdMm0b8U/edit?tab=t.0)
+
   </div>
 </details>
 <div>
 
-<details markdown="2">
-  <summary>🎯 주요 단위 테스트 결과서</summary>
-  <div>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-    </ul>
-  </div>
-</details>
 <div>
 <details markdown="2">
   <summary>🎯 UI/UX 단위 테스트결과서</summary>
@@ -308,7 +297,7 @@
   </details>
 
   <details>
-  <summary>담당자 - 멘토링 계획서서</summary>
+  <summary>담당자 - 멘토링 계획서</summary>
 
   멘토링 계획서 등록
   ![설명 텍스트](./gif/planinsert.gif)
@@ -322,10 +311,26 @@
   </details>
 
   <details>
+  <summary>담당자 - 위키</summary>
+
+  위키 삭제
+  ![설명 텍스트](./gif/deleteWiki.gif)
+
+  </details>
+
+  <details>
   <summary>멘토 - 온보딩</summary>
 
   멘토 온보딩 조회
   ![설명 텍스트](./gif/mentor_onborading_show.gif)
+
+  </details>
+
+  <details>
+  <summary>멘토 - 과제</summary>
+
+  멘토 그룹 과제 생성
+  ![설명 텍스트](./gif/createGroupTask.gif)
 
   </details>
 
@@ -344,6 +349,11 @@
   멘티 퀴즈
   ![설명 텍스트](./gif/mentee_q.gif)
 
+  멘티 회의실 예약 체험
+  ![설명 텍스트](./gif/bookRoom.gif)
+
+  멘티 휴가 예약 체험
+  ![설명 텍스트](./gif/vacationConfirm.gif)
   </details>
 
   <details>
@@ -355,13 +365,36 @@
 
   </details>
 
+  <details>
+  <summary>멘티 - 채팅</summary>
+    
+  그룹 채팅
+    ![설명 텍스트](./gif/groupChatting.gif)
+  </details>
 
-  <summary> 담당자 - 
-  
-      <li>2</li>
-    </ul>
-  </div>
-</details>
+  <details>
+  <summary>공통 - 챗봇</summary>
+    
+  챗봇
+    ![설명 텍스트](./gif/chatbot.gif)
+  </details>
+
+  <details>
+  <summary>공통 - 프로필 조회</summary>
+    
+  프로필 조회
+    ![설명 텍스트](./gif/profileRead.gif)
+  </details>
+
+  <details>
+  <summary>공통 - 위키</summary>
+    
+  위키 생성
+  ![설명 텍스트](./gif/wikiCreate.gif)
+    
+  위키 조회/수정 및 히스토리 조회
+  ![설명 텍스트](./gif/updateWikiAndReadHistory.gif)
+  </details>
 <div>
 
 <details markdown="2">
@@ -374,16 +407,22 @@
   </div>
 </details>
 
-<details markdown="2">
-  <summary>🎯 CI/CD 계획서</summary>
+<details markdown="1">
+  <summary>🚀 CI/CD 계획서</summary>
   <div>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-    </ul>
+    1. 지속적 통합 (CI)
+    - 브랜치 관리:
+      개발용 `develop` 브랜치와 배포용 `master` 브랜치를 명확히  구분하여 안정적인 코드 관리를 구현합니다.
+    - Workflow 구성:  
+      각 브랜치에 대해 별도의 워크플로우 파일 (`develop.yml`, `deploy.yml`)을 작성하여, 브랜치별 CI 작업을 독립적으로 처리합니다.
+      
+    2. 무중단 배포 (CD)
+    - 무중단 배포 환경 구축: 
+      AWS Elastic Beanstalk의 오토스케일링, 헬스체크 등 고급 기능을 활용하여 무중단 배포 환경을 설계합니다.
+    - 배포 자동화:  
+      코드 푸시와 동시에 배포 파이프라인이 작동하도록 설정하여 운영 효율성을 극대화합니다.
   </div>
 </details>
-<div>
 
 
 <h3>🎯 통합 배포 결과서</h3>
