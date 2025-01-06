@@ -192,10 +192,9 @@
 <details markdown="2">
   <summary>🎯 시스템 아키텍처 설계서</summary>
   <div>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-    </ul>
+    
+![시스템 아키텍처](https://github.com/user-attachments/assets/78162094-d073-46af-8f0c-7ea3a8f69440)
+
   </div>
 </details>
 <div>
@@ -203,10 +202,9 @@
 <details markdown="2">
   <summary>🎯 프로그램 사양서</summary>
   <div>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-    </ul>
+    
+>[프로젝트 사양서](https://docs.google.com/document/d/10-rBIVVxRV5bcQZF-zKqIN9KAENM4mPXSNmPdMm0b8U/edit?tab=t.0)
+
   </div>
 </details>
 <div>
